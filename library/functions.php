@@ -39,7 +39,7 @@ function contracheque_nome_mes($mes)
         '09' => 'Setembro',
         '10' => 'Outubro',
         '11' => 'Novembro',
-        '11' => 'Dezembro',
+        '12' => 'Dezembro',
     ];
     return $meses[$mes];
 }
